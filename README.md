@@ -2,6 +2,10 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [How it works](https://persistence-info.github.io/HowItWorks.html)
 
-[`Run` key](Data/run.htm) 
+[HKCU `Run` key](Data/run.htm) 
 
-[`RunOnce` key](Data/runonce.htm) 
+[HKCU `RunOnce` key](Data/runonce.htm) 
+
+[HKLM `Run` key](Data/hklmrun.htm) 
+
+[HKLM `RunOnce` key](Data/hklmrunonce.htm) 
