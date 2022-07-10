@@ -1,5 +1,7 @@
-Location: `HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+#### Location:
+`HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
+#### Classification:
 | Criteria | Value |
 | :--- | :--- |
 | Permissions | User |
@@ -12,13 +14,16 @@ Location: `HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 | Dependencies | OS only |
 | Toolset | Scriptable |
 
-Description: Well known key, used by many apps. Any file path specified in a Registry value will be used to `ShellExecute()` the specified file by explorer.exe when user logs on. Multiple values can exist.
+#### Description: 
+Well known key, used by many apps. Any file path specified in a Registry value will be used to `ShellExecute()` the specified file by explorer.exe when user logs on. Multiple values can exist.
 
-References: [https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys)
+#### References: 
+[https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys)
 
-Credits: N/A
+#### Credits: 
+N/A
 
-See also: 
+#### See also: 
 - [HKCU `RunOnce` key](Data/runonce.html)
 - [HKLM `Run` key](Data/hklmrun.html)
 - [HKLM `RunOnce` key](Data/hklmrunonce.html) 
