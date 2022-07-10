@@ -38,8 +38,8 @@
     1. Additional components required - some unusual Windows components are required, such as server roles, non-standard features etc
     1. Additional software required - non-OS software components are required to make persistence method work
 1. Toolset
-    1. OS only, scriptable - built-in OS tools and zero clicking is enough to create a persistence
+    1. Scriptable - built-in OS tools and zero clicking is enough to create a persistence
     1. PowerShell - built-in OS tools are not enough but PowerShell can do the job and the script exists
-    1. OS only, non-scriptable  - built-in OS tools only, but some clicking is required to create a persistence
+    1. Non-scriptable  - built-in OS tools only, but some clicking is required to create a persistence
     1. Own toolkit required - anything else
 
