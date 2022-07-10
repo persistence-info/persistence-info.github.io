@@ -1,21 +1,17 @@
 LOCATION: `HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
-Permissions: user
+| Criteria | Value |
+| :--- | :--- |
+| Permissions | user |
+| Securtity context | user |
+| Persistence type | registry |
+| Code type | EXE |
+| Launch type | same logon required |
+| Impact | non-destructive |
+| OS Version | all OS versions |
+| Dependencies | OS only |
+| Toolset | OS only, scriptable |
 
-Securtity context: user
+Description: well known key, used by many apps. Any file path specified in a Registry value will be used to launch a file by explorer.exe when user logs on.
 
-Persistence type: registry
-
-Code type: EXE
-
-Launch type: logon required
-
-Impact: non-destructive
-
-OS Version: all OS versions
-
-Dependencies: OS only
-
-Toolset: OS only, scriptable
-
-Reference: [https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys)
+References: [https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys)
