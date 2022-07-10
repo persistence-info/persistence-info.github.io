@@ -12,7 +12,7 @@ Location: `HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 | Dependencies | OS only |
 | Toolset | Scriptable |
 
-Description: well known key, used by many apps. Any file path specified in a Registry value will be used to launch a file by explorer.exe when user logs on.
+Description: Well known key, used by many apps. Any file path specified in a Registry value will be used to `ShellExecute()` the specified file by explorer.exe when user logs on. Multiple values can exist.
 
 References: [https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys)
 
