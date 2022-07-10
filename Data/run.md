@@ -2,15 +2,15 @@ LOCATION: `HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
 | Criteria | Value |
 | :--- | :--- |
-| Permissions | user |
-| Securtity context | user |
-| Persistence type | registry |
-| Code type | EXE |
-| Launch type | same logon required |
-| Impact | non-destructive |
-| OS Version | all OS versions |
+| Permissions | User |
+| Securtity context | User |
+| Persistence type | Registry |
+| Code type | EXE; Other; Fileless |
+| Launch type | Same logon required |
+| Impact | Non-destructive |
+| OS Version | All OS versions |
 | Dependencies | OS only |
-| Toolset | OS only, scriptable |
+| Toolset | Scriptable |
 
 Description: well known key, used by many apps. Any file path specified in a Registry value will be used to launch a file by explorer.exe when user logs on.
 
