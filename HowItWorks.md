@@ -24,7 +24,8 @@
     1. Fileless - no new files are put on disk to create a persistence mechanisms
 1. Launch type
     1. Automatic - it is enough to start windows to make code run
-    1. Logon required - user must log on to make code run
+    1. Any logon required - any user must log on to make code run
+    1. Same logon required - same user must log on to make code run
     1. User initiated - user must log on and perform some actions to make code run
 1. Impact
     1. Destructive - typical OS functionalities are negatively affected by creating a persistence mechanism
