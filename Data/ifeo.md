@@ -5,11 +5,11 @@
 | Criteria | Value |
 | :--- | :--- |
 | Permissions | Admin |
-| Securtity context | User; System |
+| Securtity context | User; System[^1] |
 | Persistence type | Registry |
 | Code type | EXE |
-| Launch type | Automatic; Any logon required; User initiaded |
-| Impact | Destructive |
+| Launch type | Automatic; Any logon required; User initiated[^1] |
+| Impact | Destructive[^2] |
 | OS Version | All OS versions |
 | Dependencies | OS only |
 | Toolset | Scriptable |
@@ -25,3 +25,6 @@ Effectively it leads to image hijacking, as the configured exe is launched inste
 
 
 #### See also: 
+
+[^1]: Depends on the image being hijacked
+[^2]: The original exe will not start
