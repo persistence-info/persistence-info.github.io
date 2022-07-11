@@ -25,7 +25,8 @@ Well known key, used by many apps. Any file path specified in a Registry value w
 
 
 ### References:
-<https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys>
+- <https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys>
+- <http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html>
 
 
 ### Credits:
