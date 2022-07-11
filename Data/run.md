@@ -1,3 +1,5 @@
+## "Run" registry key
+
 ### Location:
 `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
