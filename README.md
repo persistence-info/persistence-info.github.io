@@ -13,3 +13,9 @@ The repository tries to gather an information about persistence mechanisms to ma
 [HKLM `RunOnce` key](Data/hklmrunonce.html) 
 
 [`Image File Execution Options` key](Data/ifeo.html) 
+
+[WER Debugger](Data/wer_debugger.md) *
+
+* * *
+
+\* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunter.
