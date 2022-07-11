@@ -14,6 +14,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [`Image File Execution Options` key](Data/ifeo.html) 
 
+[AeDebug](Data/aedebug.md) *
+
 [WER Debugger](Data/wer_debugger.md) *
 
 * * *
