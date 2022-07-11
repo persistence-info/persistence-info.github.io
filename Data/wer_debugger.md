@@ -14,7 +14,7 @@
 |Persistence type|Registry|
 |Code type|EXE|
 |Launch type|Other|
-|Impact|Destructive[^2]|
+|Impact|Non-destructive[^2]|
 |OS Version|All OS versions|
 |Dependencies|OS only|
 |Toolset|Scriptable|
