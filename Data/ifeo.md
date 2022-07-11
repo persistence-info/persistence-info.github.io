@@ -30,3 +30,4 @@ Effectively it leads to image hijacking, as the configured exe is launched inste
 [^1]: Depends on the image being hijacked
 [^2]: Depends on the image being hijacked
 [^3]: The original exe will not start
+
