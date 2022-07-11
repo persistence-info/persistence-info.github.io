@@ -4,7 +4,7 @@
 
 ### Classification:
 | Criteria | Value |
-|---|---|
+| --- | --- |
 | Permissions | User |
 | Securtity context | User |
 | Persistence type | Registry |
@@ -32,6 +32,6 @@ N/A
 - [HKCU `RunOnce` key](Data/runonce.html)
 - [HKLM `Run` key](Data/hklmrun.html)
 - [HKLM `RunOnce` key](Data/hklmrunonce.html) 
- 
- 
- ### Remarks:
+
+
+### Remarks:
