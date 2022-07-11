@@ -1,5 +1,5 @@
 #### Location:
-`HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+`HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
 #### Classification:
 | Criteria | Value |
