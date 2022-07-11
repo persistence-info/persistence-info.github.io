@@ -1,8 +1,9 @@
-## "Run" registry key
+## "Run" and "RunOnce" registry keys
 
 
 ### Location:
-`HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+- `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+- `HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce`
 
 
 ### Classification:
@@ -22,6 +23,7 @@
 
 ### Description:
 Well known key, used by many apps. Any file path specified in a Registry value will be used to `ShellExecute()` the specified file by explorer.exe when user logs on. Multiple values can exist.
+>  The Run key makes the program run every time the user logs on, while the RunOnce key makes the program run one time, and then the key is deleted.
 
 
 ### References:
@@ -34,9 +36,7 @@ N/A
 
 
 ### See also:
-- [HKCU `RunOnce` key](runonce.html)
-- [HKLM `Run` key](hklmrun.html)
-- [HKLM `RunOnce` key](hklmrunonce.html) 
+- [HKLM `Run` and `RunOnce` registry keys](hklmrun.html)
 
 
 ### Remarks:
