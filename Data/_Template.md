@@ -1,5 +1,6 @@
-## Image File Execution Options <!-- general "title" of the persistence. Good to be unique -->
+## Image File Execution Options <!-- general "title" of the persistence. Good to be unique. -->
 <!-- separate sections by two empty lines -->
+<!-- do not remove empty sections  -->
 
 ### Location: <!-- where to find it -->
 `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\`
