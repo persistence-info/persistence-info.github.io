@@ -2,19 +2,19 @@
 `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\`
 
 #### Classification: 
-| Criteria | Value |
-| :--- | :--- |
-| Permissions | Admin |
-| Securtity context | User; System[^1] |
-| Persistence type | Registry |
-| Code type | EXE |
-| Launch type | Automatic; Any logon required; User initiated[^2] |
-| Impact | Destructive[^3] |
-| OS Version | All OS versions |
-| Dependencies | OS only |
-| Toolset | Scriptable |
+|Criteria|Value|
+|---|---|
+|Permissions|Admin|
+|Securtity context| User; System[^1] |
+|Persistence type| Registry |
+|Code type|EXE|
+|Launch type|Automatic; Any logon required; User initiated[^2]|
+|Impact|Destructive[^3]|
+|OS Version|All OS versions|
+|Dependencies|OS only|
+|Toolset|Scriptable|
 
-| h1 | h2 |
+|h1|h2|
 |---|---|
 |data|data|
 |data|data|
