@@ -27,6 +27,8 @@
 
 Relies on crashing applications, which may be not good enough for a real persistence. But it is Windows, something will crash sooner or later for sure.
 
+Breaks the parent-child chain, making it harder to detect.
+
 
 ### References:
 <https://www.hexacorn.com/blog/2019/09/20/beyond-good-ol-run-key-part-116/>
