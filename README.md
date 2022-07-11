@@ -18,6 +18,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [WER Debugger](Data/wer_debugger.md) *
 
+[Natural Language Development Platform 6 DLLs](Data/naturallanguage6.md) *
+
 * * *
 
-\* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunter.
+\* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunters.
