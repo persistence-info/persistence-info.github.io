@@ -27,6 +27,7 @@ Well known key. Add or edit the `Debugger` value, using a REG_SZ string that spe
 
 Starts on application crash, which may be not reliable enough.
 
+Breaks the parent-child chain, making it harder to detect.
 
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
