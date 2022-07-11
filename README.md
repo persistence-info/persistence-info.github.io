@@ -4,13 +4,9 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 * * *
 
-[HKCU `Run` key](Data/run.html) 
+[HKCU `Run` and `RunOnce` registry keys](Data/run.html) 
 
-[HKCU `RunOnce` key](Data/runonce.html) 
-
-[HKLM `Run` key](Data/hklmrun.html) 
-
-[HKLM `RunOnce` key](Data/hklmrunonce.html) 
+[HKLM `Run` and `RunOnce` registry keys](Data/runonce.html) 
 
 [`Image File Execution Options` key](Data/ifeo.html) 
 
