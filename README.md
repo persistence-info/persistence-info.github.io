@@ -2,6 +2,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [How it works](https://persistence-info.github.io/HowItWorks.html)
 
+* * *
+
 [HKCU `Run` key](Data/run.html) 
 
 [HKCU `RunOnce` key](Data/runonce.html) 
