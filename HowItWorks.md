@@ -33,6 +33,7 @@ Your effort will be appreciated, and is never too small to be helpful :)
     1. Any logon required - any user must log on to make code run
     1. Same logon required - same user must log on to make code run
     1. User initiated - user must log on and perform some actions to make code run
+    1. Other - other scenarios
 1. Impact
     1. Destructive - typical OS functionalities are negatively affected by creating a persistence mechanism
     1. Non-destructive - typical OS functionalities are NOT negatively affected by creating a persistence mechanism
