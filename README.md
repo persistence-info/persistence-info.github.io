@@ -9,3 +9,5 @@ The repository tries to gather an information about persistence mechanisms to ma
 [HKLM `Run` key](Data/hklmrun.html) 
 
 [HKLM `RunOnce` key](Data/hklmrunonce.html) 
+
+[`Image File Execution Options` key](Data/ifeo.html) 
