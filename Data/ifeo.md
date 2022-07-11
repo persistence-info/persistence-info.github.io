@@ -1,7 +1,7 @@
 #### Location:
 `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\`
 
-#### Classification:
+#### Classification: 
 | Criteria | Value |
 | :--- | :--- |
 | Permissions | Admin |
