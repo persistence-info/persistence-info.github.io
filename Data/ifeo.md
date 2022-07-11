@@ -1,10 +1,14 @@
-#### Location:
+## Image File Execution Options
+
+
+### Location:
 `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\`
 
-#### Classification:
+
+### Classification:
 
 |Criteria|Value|
-|---|---|
+|:---|:---|
 |Permissions|Admin|
 |Securtity context| User; System[^1] |
 |Persistence type| Registry |
@@ -15,22 +19,21 @@
 |Dependencies|OS only|
 |Toolset|Scriptable|
 
-|h1|h2|
-|---|---|
-|data|data|
-|data|data|
 
-#### Description: 
+### Description:
 Well known key. If there is a subkey with a name matching the exe file name, the `Debugger` REG_SZ value is being read and launched with the original exe passed as parameter.
 Effectively it leads to image hijacking, as the configured exe is launched instead of the desired one.
 
-#### References: 
-[https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/](https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/)
 
-#### Credits: 
+#### References:
+<https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/>
 
 
-#### See also: 
+### Credits:
+
+
+#### See also:
+
 
 #### Remarks:
 [^1]: Depends on the image being hijacked
