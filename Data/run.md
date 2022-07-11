@@ -33,9 +33,9 @@ N/A
 
 
 ### See also:
-- [HKCU `RunOnce` key](Data/runonce.html)
-- [HKLM `Run` key](Data/hklmrun.html)
-- [HKLM `RunOnce` key](Data/hklmrunonce.html) 
+- [HKCU `RunOnce` key](runonce.html)
+- [HKLM `Run` key](hklmrun.html)
+- [HKLM `RunOnce` key](hklmrunonce.html) 
 
 
 ### Remarks:
