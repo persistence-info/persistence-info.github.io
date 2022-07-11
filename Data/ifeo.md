@@ -25,7 +25,7 @@ Well known key. If there is a subkey with a name matching the exe file name, the
 Effectively it leads to image hijacking, as the configured exe is launched instead of the desired one.
 
 
-#### References:
+### References:
 <https://blog.malwarebytes.com/101/2015/12/an-introduction-to-image-file-execution-options/>
 
 
@@ -35,7 +35,7 @@ Effectively it leads to image hijacking, as the configured exe is launched inste
 #### See also:
 
 
-#### Remarks:
+### Remarks:
 [^1]: Depends on the image being hijacked
 [^2]: Depends on the image being hijacked
 [^3]: The original exe will not start
