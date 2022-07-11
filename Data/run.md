@@ -1,5 +1,6 @@
 ## "Run" registry key
 
+
 ### Location:
 `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
 
@@ -7,7 +8,7 @@
 ### Classification:
 
 | Criteria | Value |
-| --- | --- |
+|:--- |:---|
 | Permissions | User |
 | Securtity context | User |
 | Persistence type | Registry |
