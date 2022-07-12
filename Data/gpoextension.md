@@ -26,7 +26,7 @@ Group Policy Client Service (`gpsvc`) loads its extension DLLs. The list is easy
 
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
-- API - <https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/implementing-a-group-policy-client-side-extension>
+- Documentation - <https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/creating-a-policy-callback-function>
 - List of known extensions, may be outdated - <https://docs.microsoft.com/en-us/archive/blogs/mempson/group-policy-client-side-extension-list>
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
