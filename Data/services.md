@@ -27,8 +27,8 @@ Oficially, the DLL must be indicated within the `Parameters` subkey, but in prac
 
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
-[Persistence with Windows Services](https://gtworek.github.io/PSBits/services.html)
-[PowerShell script for service DLL analysis](https://github.com/gtworek/PSBits/blob/master/Services/Get-ServiceDlls.ps1)
+- [Persistence with Windows Services](https://gtworek.github.io/PSBits/services.html)
+- [PowerShell script for service DLL analysis](https://github.com/gtworek/PSBits/blob/master/Services/Get-ServiceDlls.ps1)
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
