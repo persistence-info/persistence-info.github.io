@@ -10,6 +10,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [`Image File Execution Options` key](Data/ifeo.md) 
 
+[Windows Services](Data/services.md) 
+
 [AeDebug](Data/aedebug.md)
 
 [WER Debugger](Data/wer_debugger.md) *
