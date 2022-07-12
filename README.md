@@ -6,7 +6,7 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [HKCU `Run` and `RunOnce` registry keys](Data/run.html) 
 
-[HKLM `Run` and `RunOnce` registry keys](Data/runonce.html) 
+<!-- [HKLM `Run` and `RunOnce` registry keys](Data/runonce.html) -->
 
 [`Image File Execution Options` key](Data/ifeo.html) 
 
@@ -15,6 +15,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 [WER Debugger](Data/wer_debugger.md) *
 
 [Natural Language Development Platform 6 DLLs](Data/naturallanguage6.md) *
+
+[GPO Client-side Extension](Data/gpoextension.md)
 
 * * *
 
