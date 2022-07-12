@@ -3,7 +3,7 @@
 <!-- do not remove empty sections  -->
 
 ### Location: <!-- where to find it -->
-`HKLM\\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions`
+`HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions`
 
 
 ### Classification: <!-- see "how it works" document. Empty lime must go next. -->
