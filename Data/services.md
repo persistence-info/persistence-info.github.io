@@ -38,5 +38,5 @@ Oficially, the DLL must be indicated within the `Parameters` subkey, but in prac
 
 
 ### Remarks: <!-- see the usage in the "classification" section. Use only 1:1 references i.e. not refering to the same footnote from two different places -->
-[^1]: Also remotely
+[^1]: Also remotely with `sc.exe`
 [^2]: <https://twitter.com/0gtweet/status/1535156885179047936>
