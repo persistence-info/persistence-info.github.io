@@ -1,14 +1,14 @@
 The repository tries to gather an information about persistence mechanisms to make the protection/detection more efficient. Most of the information is well known for years, being actively used within various scenarios. 
 
-[How it works](https://persistence-info.github.io/HowItWorks.html)
+[How it works](HowItWorks.md)
 
 * * *
 
-[HKCU `Run` and `RunOnce` registry keys](Data/run.html) 
+[HKCU `Run` and `RunOnce` registry keys](Data/run.md) 
 
-<!-- [HKLM `Run` and `RunOnce` registry keys](Data/runonce.html) -->
+<!-- [HKLM `Run` and `RunOnce` registry keys](Data/runonce.md) -->
 
-[`Image File Execution Options` key](Data/ifeo.html) 
+[`Image File Execution Options` key](Data/ifeo.md) 
 
 [AeDebug](Data/aedebug.md)
 
