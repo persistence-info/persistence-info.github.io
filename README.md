@@ -20,6 +20,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [GPO Client-side Extension](Data/gpoextension.md)
 
+[Filter Handlers for Windows Search](ifilters.md)
+
 * * *
 
 \* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunters.
