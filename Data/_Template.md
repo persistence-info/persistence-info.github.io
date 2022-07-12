@@ -33,7 +33,7 @@ Effectively it leads to image hijacking, as the configured exe is launched inste
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
 
 
-### See also: <!-- if refering to the same repo, use [Name](file.html) syntax. Yes, it's .html, to make it work in github pages -->
+### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. ->
 
 
 ### Remarks: <!-- see the usage in the "classification" section. Use only 1:1 references i.e. not refering to the same footnote from two different places -->
