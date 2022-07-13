@@ -25,6 +25,7 @@
 ### Description:<!-- add two EOLs or two spaces at the end of line to create a line break -->
 > Authentication packages are contained in dynamic-link libraries. The Local Security Authority (LSA) loads authentication packages by using configuration information stored in the registry. 
 
+`lsass.exe` loads all DLLs specified by the `Authentication Packages` `REG_MULTI_SZ` value. The DLL should be placed into `%WINDIR%\System32` and referred in the registry without its extension - to load `%WINDIR%\System32\msv1_0.dll`, `msv1_0` only should be entered.
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 <https://docs.microsoft.com/en-us/windows/win32/secauthn/authentication-packages>
