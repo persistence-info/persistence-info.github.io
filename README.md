@@ -39,6 +39,8 @@ Expect more. I am doing my best to add new entries each day.
 
 [Credential Manager DLL](Data/credmandll.md)
 
+[Authentication Packages](Data/authenticationpackages.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
