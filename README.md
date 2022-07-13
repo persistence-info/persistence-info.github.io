@@ -26,6 +26,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [Disk Cleanup Handler](Data/diskcleanuphandler.md)
 
+[.chm helper DLL](Data/htmlhelpauthor.md) *
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
