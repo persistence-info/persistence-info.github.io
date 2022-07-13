@@ -25,6 +25,8 @@
 ### Description:<!-- add two EOLs or two spaces at the end of line to create a line break -->
 > When a password change request is made, the Local Security Authority (LSA) calls the password filters registered on the system.
 
+The DLL not only provides some persistence, but also obtains a cleartext password from LSASS.
+
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 - <https://docs.microsoft.com/en-us/windows/win32/secmgmt/password-filters>
