@@ -14,7 +14,7 @@ Your effort will be appreciated, and is never too small to be helpful :)
 ## Classification:
 1. Permissions
     1. End-user (👨‍💼) - standard user permissions are good enough to create the persistence
-    1. Admin (👨‍💻) - standard user permissions are NOT good enough to create the persistence
+    1. Admin - standard user permissions are NOT good enough to create the persistence
 1. Security context
     1. User - code runs as the user being logged-on within the user session
     1. System - code runs as the localsystem
@@ -32,7 +32,7 @@ Your effort will be appreciated, and is never too small to be helpful :)
     1. Automatic (⚙) - it is enough to start windows to make code run
     1. Any logon required - any user must log on to make code run
     1. Same logon required - same user must log on to make code run
-    1. User initiated (✋) - user must log on and perform some actions to make code run
+    1. User initiated - user must log on and perform some actions to make code run
     1. Other - other scenarios
 1. Impact
     1. Destructive - typical OS functionalities are negatively affected by creating a persistence mechanism
