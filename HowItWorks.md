@@ -39,7 +39,8 @@ Your effort will be appreciated, and is never too small to be helpful :)
     1. Non-destructive - typical OS functionalities are NOT negatively affected by creating a persistence mechanism
  1. OS version
     1. All OS versions - it is enough to have any current Windows version
-    1. Selected OS versions - especially when the persistence exists within the Windows Server only
+    1. Windows Server - Windows Server required
+    1. Other - all other cases
 1. Dependencies
     1. OS Only - standard OS installation is enough to make persistence happen
     1. Additional components required - some unusual Windows components are required, such as server roles, non-standard features etc
