@@ -22,6 +22,8 @@ The repository tries to gather an information about persistence mechanisms to ma
 
 [Filter Handlers for Windows Search](Data/ifilters.md)
 
+[Disk Cleanup Handler](Data/diskcleanuphandler.md)
+
 * * *
 
 \* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunters.
