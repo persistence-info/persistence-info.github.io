@@ -13,7 +13,7 @@ Your effort will be appreciated, and is never too small to be helpful :)
 
 ## Classification:
 1. Permissions
-    1. End-user (👨‍💼) - standard user permissions are good enough to create the persistence
+    1. User (👨‍💼) - standard user permissions are good enough to create the persistence
     1. Admin - standard user permissions are NOT good enough to create the persistence
 1. Security context
     1. User - code runs as the user being logged-on within the user session
