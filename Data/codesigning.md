@@ -15,7 +15,7 @@
 |Criteria|Value|
 |:---|:---|
 |Permissions|Admin|
-|Securtity context| User|
+|Security context| User|
 |Persistence type| Registry |
 |Code type|DLL|
 |Launch type| User initiated[^1]|
