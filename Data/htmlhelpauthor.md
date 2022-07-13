@@ -34,7 +34,7 @@
 
 ### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. -->
 <!-- prepend with "- " if more than one -->
-
+[hhctrl.ocx](hhctrl.md)
 
 ### Remarks: <!-- see the usage in the "classification" section. Use only 1:1 references i.e. not refering to the same footnote from two different places -->
 [^1]: Happens when user opens a .chm file
