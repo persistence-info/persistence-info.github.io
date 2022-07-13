@@ -13,7 +13,7 @@
 |Criteria|Value|
 |:---|:---|
 |Permissions|Admin|
-|Securtity context| User; System |
+|Security context| User; System |
 |Persistence type| Registry |
 |Code type|DLL[^1]|
 |Launch type|Automatic|
