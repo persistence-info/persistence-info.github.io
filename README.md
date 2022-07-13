@@ -1,5 +1,6 @@
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
-The repository tries to gather an information about persistence mechanisms to make the protection/detection more efficient. Most of the information is well known for years, being actively used within various scenarios. 
+The repository tries to gather an information about persistence mechanisms to make the protection/detection more efficient. Most of the information is well known for years, being actively used within various scenarios.  
+Expect more. I am doing my best to add new entries each day.
 
 [How it works](HowItWorks.md)
 
