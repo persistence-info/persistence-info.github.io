@@ -13,7 +13,7 @@
 |Criteria|Value|
 |:---|:---|
 |Permissions|Admin|
-|Securtity context| System |
+|Security context| System |
 |Persistence type| Registry |
 |Code type|DLL|
 |Launch type|Any logon required|
