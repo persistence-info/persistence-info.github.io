@@ -37,6 +37,8 @@ Expect more. I am doing my best to add new entries each day.
 
 [Password Filter](Data/passwordfilter.md)
 
+[Credential Manager DLL](Data/credmandll.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
