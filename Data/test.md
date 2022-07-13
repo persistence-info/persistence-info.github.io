@@ -5,7 +5,7 @@
 
 see: [test](test.md)
 
-Automatic ⚙  
-Manual ✋  
-User 👨‍💼  
-Admin 👨‍💻  
+⚙ Automatic  
+✋ Manual  
+👨‍💼 User  
+👨‍💻 Admin  
