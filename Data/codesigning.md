@@ -5,9 +5,7 @@
 
 ### Location: <!-- where to find it -->
 - `HKLM\SOFTWARE\Microsoft\Cryptography\Providers`
-- `HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Providers`
 - `HKLM\SOFTWARE\Microsoft\Cryptography\OID`
-- `HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\OID`
 
 
 ### Classification: <!-- see "how it works" document. Empty lime must go next. -->
@@ -31,6 +29,7 @@
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 - <https://specterops.io/assets/resources/SpecterOps_Subverting_Trust_in_Windows.pdf>
+- [Open-source implementation](https://github.com/gtworek/PSBits/tree/master/SIP)
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
