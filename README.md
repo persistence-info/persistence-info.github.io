@@ -7,11 +7,11 @@ Expect more. I am doing my best to add new entries each day.
 * * *
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 
-[HKCU `Run` and `RunOnce` registry keys](Data/run.md) 
+[HKCU Run and RunOnce registry keys](Data/run.md) 
 
 <!-- [HKLM `Run` and `RunOnce` registry keys](Data/runonce.md) -->
 
-[`Image File Execution Options` key](Data/ifeo.md) 
+[Image File Execution Options key](Data/ifeo.md) 
 
 [Windows Services](Data/services.md) 
 
