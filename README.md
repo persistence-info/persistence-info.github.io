@@ -31,6 +31,8 @@ Expect more. I am doing my best to add new entries each day.
 
 [hhctrl.ocx](Data/hhctrl.md) *
 
+[AMSI Providers](Data/amsi.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
