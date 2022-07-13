@@ -11,7 +11,7 @@
 | Criteria | Value |
 |:--- |:---|
 | Permissions | User |
-| Securtity context | User |
+| Security context | User |
 | Persistence type | Registry |
 | Code type | EXE; Other; Fileless |
 | Launch type | Same logon required |
