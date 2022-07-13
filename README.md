@@ -52,6 +52,6 @@ I have added emojis. Feel free to complain about it [here](https://github.com/pe
 \* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunters.
 
 
-⚙ It is enough to turn computer to make code run.  
+⚙ It is enough to turn computer on to make the code run.  
 👨‍💼 End-user can do it.  
  
