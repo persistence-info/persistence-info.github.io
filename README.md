@@ -28,7 +28,7 @@ I have added emojis. Feel free to complain about it [here](https://github.com/pe
 
 [Disk Cleanup Handler](Data/diskcleanuphandler.md)
 
-[.chm helper DLL](Data/htmlhelpauthor.md) *
+👨‍💼 [.chm helper DLL](Data/htmlhelpauthor.md) *
 
 [hhctrl.ocx](Data/hhctrl.md) *
 
