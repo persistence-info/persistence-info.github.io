@@ -10,7 +10,7 @@
 |Criteria|Value|
 |:---|:---|
 |Permissions|Admin|
-|Securtity context| User; System[^1] |
+|Security context| User; System[^1] |
 |Persistence type| Registry |
 |Code type|EXE|
 |Launch type|Automatic; Any logon required; User initiated[^2]|
