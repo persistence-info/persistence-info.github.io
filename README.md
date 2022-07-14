@@ -1,9 +1,8 @@
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 The repository tries to gather an information about Windows persistence mechanisms to make the protection/detection more efficient. Most of the information is well known for years, being actively used within various scenarios.  
 Expect more. I am doing my best to add new entries each day.  
-I have added emojis. Feel free to complain about it [here](https://github.com/persistence-info/persistence-info.github.io/discussions/1).
 
-[How it works](HowItWorks.md)
+[How it works. And how to contribute.](HowItWorks.md)
 
 * * *
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
