@@ -12,6 +12,8 @@ I have added emojis. Feel free to complain about it [here](https://github.com/pe
 
 <!-- [HKLM `Run` and `RunOnce` registry keys](Data/runonce.md) -->
 
+👨‍💼 ⚙ [Task Scheduler](Data/taskscheduler.md) 
+
 ⚙ [Image File Execution Options key](Data/ifeo.md) 
 
 ⚙ [Windows Services](Data/services.md) 
