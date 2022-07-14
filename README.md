@@ -48,6 +48,8 @@ I have added emojis. Feel free to complain about it [here](https://github.com/pe
 
 👨‍💼 [HKCU cmd.exe AutoRun](Data/cmdautorun.md)
 
+⚙ [LSA Extension](Data/lsaaextension.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
