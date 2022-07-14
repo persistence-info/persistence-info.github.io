@@ -3,6 +3,9 @@ Feel free to contribute!
 As you can see, I have just started, and there are hundreds of persistence mechanisms to cover.
 Your effort will be appreciated, and is never too small to be helpful :)
 ```
+If need some tips how to contribute, here you have it:  
+[![YouTube](https://img.youtube.com/vi/kBiaXmOdyBc/0.jpg)](https://www.youtube.com/watch?v=kBiaXmOdyBc) 
+
 
 ## Definitions:
 1. Persistence mechanism - configuration change, making the arbitrary code to run automatically, or in a way making it likely to happen unexpectedly due to typical user actions such as right-click on files etc.
