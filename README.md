@@ -49,6 +49,8 @@ Expect more. I am doing my best to add new entries each day.
 
 ⚙ [LSA Extension](Data/lsaaextension.md)
 
+⚙ [Winlogon Notification Package](Data/winlogonnotificationpackage.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
