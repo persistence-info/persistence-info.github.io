@@ -55,6 +55,8 @@ Expect more. I am doing my best to add new entries each day.
 
 👨‍💼 [HKCU Load](Data/windowsload.md)
 
+[MPNotify](Data/mpnotify.md)
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
