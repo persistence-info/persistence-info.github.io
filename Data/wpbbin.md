@@ -32,7 +32,7 @@ Hardware-based persistence.
 1. The `wpbbin.exe` is checked for integrity with `IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY`.  
 1. The `wpbbin.exe` is executed.
 
-The functionality may be disabled with the `DisableWpbtExecution` registry value set to `1` in `HKLM\SYSTEM\CurrentControlSet\Control\Session` (tip by [@Harvesterify](https://twitter.com/Harvesterify))
+The functionality may be disabled with the `DisableWpbtExecution` registry value set to `1` in `HKLM\SYSTEM\CurrentControlSet\Control\Session Manager` (tip by [@Harvesterify](https://twitter.com/Harvesterify))
 
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
