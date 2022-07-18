@@ -32,13 +32,15 @@ Hardware-based persistence.
 1. The `wpbbin.exe` is checked for integrity with `IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY`.  
 1. The `wpbbin.exe` is executed.
 
+The functionality may be disabled with the `DisableWpbtExecution` registry value set to `1` in `HKLM\SYSTEM\CurrentControlSet\Control\Session` (tip by [@Harvesterify](https://twitter.com/Harvesterify))
+
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 - <http://download.microsoft.com/download/8/a/2/8a2fb72d-9b96-4e2d-a559-4a27cf905a80/windows-platform-binary-table.docx>
 - <https://grzegorztworek.medium.com/using-uefi-to-inject-executable-files-into-bitlocker-protected-drives-8ff4ca59c94c>
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
-
+[@Harvesterify](https://twitter.com/Harvesterify)
 
 ### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. -->
 <!-- prepend with "- " if more than one -->
