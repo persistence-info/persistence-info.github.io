@@ -38,6 +38,7 @@ The functionality may be disabled with the `DisableWpbtExecution` registry value
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 - <http://download.microsoft.com/download/8/a/2/8a2fb72d-9b96-4e2d-a559-4a27cf905a80/windows-platform-binary-table.docx>
 - <https://grzegorztworek.medium.com/using-uefi-to-inject-executable-files-into-bitlocker-protected-drives-8ff4ca59c94c>
+- https://github.com/tandasat/WPBT-Builder
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
 [@Harvesterify](https://twitter.com/Harvesterify)
