@@ -34,6 +34,8 @@ Hardware-based persistence.
 
 The functionality may be disabled with the `DisableWpbtExecution` registry value set to `1` in `HKLM\SYSTEM\CurrentControlSet\Control\Session Manager` (tip by [@Harvesterify](https://twitter.com/Harvesterify))
 
+The functionality is not a typical persistence, as it does not rely only on configuration stored within Windows. As written above, the exploitation requires both: writing into UEFI tables AND digital signature meeting `IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY` requirements.
+
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 - <http://download.microsoft.com/download/8/a/2/8a2fb72d-9b96-4e2d-a559-4a27cf905a80/windows-platform-binary-table.docx>
