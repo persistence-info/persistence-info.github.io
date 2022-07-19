@@ -59,6 +59,8 @@ Expect more. I am doing my best to add new entries each day.
 
 ⚙ [Windows Platform Binary Table](Data/wpbbin.md)
 
+[Explorer tools](Data/explorertools.md) *
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
