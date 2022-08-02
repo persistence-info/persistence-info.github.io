@@ -30,8 +30,8 @@
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
-- [@KirillOsenkov](https://twitter.com/KirillOsenkov/status/1553548127956639746)
-- [@AdamLangePL](https://twitter.com/AdamLangePL/status/1553751377289138176)
+[@KirillOsenkov](https://twitter.com/KirillOsenkov/status/1553548127956639746)
+<!-- [@AdamLangePL](https://twitter.com/AdamLangePL/status/1553751377289138176) -->
 
 ### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. -->
 <!-- prepend with "- " if more than one -->
