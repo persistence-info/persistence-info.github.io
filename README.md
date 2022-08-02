@@ -69,6 +69,8 @@ Expect more. I am doing my best to add new entries each day.
 
 ⚙ [Autodial DLL](Data/autodialdll.md) *
 
+[.NET Startup Hooks](Data/dotnetstartuphooks.md)
+
 Want more? Check the list tomorrow. :)
 
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
