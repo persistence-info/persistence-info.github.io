@@ -73,6 +73,8 @@ Expect more. I am doing my best to add new entries each day.
 
 👨‍💼 [PowerShell Profiles](Data/powershellprofile.md)
 
+👨‍💼 [TS Initial Program](Data/tsinitialprogram.md)
+
 Want more? Check the list tomorrow. :)
 
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
