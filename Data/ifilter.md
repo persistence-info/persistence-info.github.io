@@ -1,4 +1,4 @@
-## IFilters <!-- general "title" of the persistence. Good to be unique. -->
+## IFilter <!-- general "title" of the persistence. Good to be unique. -->
 <!-- separate sections by two empty lines -->
 <!-- do not remove empty sections  -->
 
