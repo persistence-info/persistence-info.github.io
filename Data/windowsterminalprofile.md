@@ -28,7 +28,8 @@
 > 1. Add the value `"startOnUserLogin": true`
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
-<https://twitter.com/nas_bench/status/1550836225652686848>
+- <https://twitter.com/nas_bench/status/1550836225652686848>
+- <https://nasbench.medium.com/persistence-using-windows-terminal-profiles-5035d3fc86fe>
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
