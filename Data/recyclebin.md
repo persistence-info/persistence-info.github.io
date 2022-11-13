@@ -33,7 +33,8 @@ Adding the "open\command" subkey to the Recycle Bin CLSID and adding a new verb 
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
-[@Hexacorn](https://twitter.com/Hexacorn)
+- [@Hexacorn](https://twitter.com/Hexacorn)  
+- Entry added by [rootisareservedword](https://github.com/rootisareservedword)
 
 ### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. -->
 <!-- prepend with "- " if more than one -->
