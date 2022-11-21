@@ -29,7 +29,8 @@ Adding the "open\command" subkey to the Recycle Bin CLSID and adding a new verb 
 > 2. REG ADD "HKEY_CLASSES_ROOT\CLSID\\{645FF040-5081-101B-9F08-00AA002F954E}\shell\open\command" /ve /t REG_SZ /d "calc.exe" /f
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
-<https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/>
+- <https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/>
+- <https://gitlab.com/ORCA000/recyclebinpersistence>
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
