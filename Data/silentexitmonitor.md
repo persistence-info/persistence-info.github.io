@@ -50,7 +50,7 @@ Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Silen
 
 
 ### Credits: <!-- use [abc](https://...) syntax. Prepend with "- " when more than one. -->
-
+- Entry added by [@pawelmaziarz](https://twitter.com/pawelmaziarz)
 
 ### See also: <!-- if refering to the same repo, use [Name](file.md) syntax. -->
 <!-- prepend with "- " if more than one -->
