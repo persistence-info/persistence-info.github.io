@@ -29,7 +29,7 @@ Using DSC administrators can ensure that a machine is set to a specific configur
 After setting a DSC extension the DSC Local Configuration Manager monitors the configuration and if any deviation is found, it can be fixed with DSC scripts running with system privileges.  
 DSC can be run on a local or remote host the user has admin rights on, so it can be used for lateral movement as well.
 
-To abuse DSC for persistence the first the Local Configuration Manager configuration might need be changed to a configuration that is auto-corrected if there is a deviation, to continue configuration after reboot and the Frequency of monitoring and changing should be set to the desired value (min 15 minutes).
+To abuse DSC for persistence, first the Local Configuration Manager configuration might need be changed to a configuration that is auto-corrected if there is a deviation, to continue configuration after reboot and the frequency of monitoring and changing should be set to the desired value (min 15 minutes).
 this can be done with the following script:
 
 ```
