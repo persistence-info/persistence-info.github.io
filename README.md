@@ -87,9 +87,10 @@ Expect more. I am doing my best to add new entries each day.
 
 ⚙ [Desired State Configuration](Data/desiredstateconfiguration.md)
 
+<!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
+
 Want more? Check the list tomorrow. :)
 
-<!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 * * *
 
 \* Based on a research made by [@Hexacorn](https://twitter.com/Hexacorn) - one of the best persistence hunters.
