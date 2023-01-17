@@ -85,6 +85,8 @@ Expect more. I am doing my best to add new entries each day.
 
 [Monitoring Silent Process Exit](Data/silentexitmonitor.md)
 
+⚙ [Desired State Configuration](Data/desiredstateconfiguration.md)
+
 Want more? Check the list tomorrow. :)
 
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
