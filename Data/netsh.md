@@ -40,4 +40,4 @@ Well known key
 
 ### Remarks: <!-- see the usage in the "classification" section. Use only 1:1 references i.e. not refering to the same footnote from two different places -->
 [^1]: User must launch netsh.exe
-[^2]: Lack of `InitHelperDll()' leads to an error message within netsh.exe but the tool and DLL still work.
+[^2]: Lack of `InitHelperDll()` leads to an error message within netsh.exe but the tool and DLL still work.
