@@ -91,7 +91,7 @@ Expect more. I am doing my best to add new entries each day.
 
 [Netsh extension DLL](Data/netsh.md)
 
-[Boot Verification Program](Data/bootverificationprogram.md)
+⚙ [Boot Verification Program](Data/bootverificationprogram.md)
 
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 
