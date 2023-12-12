@@ -25,7 +25,7 @@
 
 
 ### Description:<!-- add two EOLs or two spaces at the end of line to create a line break -->
-If the `fInheritInitialProgram` value is set to 1, the exe idicated in the `InitialProgram` value is automatically started on RDP connection.
+If the `fInheritInitialProgram` value is set to 1, the exe indicated in the `InitialProgram` value is automatically started on RDP connection.
 
 ### References: <!-- use <...> or [abc](https://...) syntax. Prepend with "- " when more than one -->
 <https://twitter.com/JacqBens/status/1560380971777662983>
