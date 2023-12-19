@@ -95,6 +95,8 @@ Expect more. I am doing my best to add new entries each day.
 
 👨‍💼 [File Extension Hijacking](Data/fileextensionhijacking.md)
 
+👨‍💼 [Keyboard Shortcut](Data/keyboardshortcut.md) *
+
 <!-- NO WORRIES ABOUT EDITING THIS FILE. I WILL UPDATE IT WHEN NEW FILE WITH DETAILS IS ADDED -->
 
 Want more? Check the list tomorrow. :)
